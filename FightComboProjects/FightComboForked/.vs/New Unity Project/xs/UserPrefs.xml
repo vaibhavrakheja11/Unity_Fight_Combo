@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{B2B58FB2-4462-6B0C-A872-40DD957E5FE0}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Roundbeargames_Tutorial/CharactersRB/States/StateScripts/MoveForward.cs">
+    <Files>
+      <File FileName="Assets/Roundbeargames_Tutorial/CharactersRB/States/StateScripts/MoveForward.cs" Line="20" Column="44" />
+      <File FileName="Assets/Roundbeargames_Tutorial/InputDevices/KeyboardInput.cs" Line="13" Column="65" />
+      <File FileName="Assets/Roundbeargames_Tutorial/Managers/VirtualInputManager.cs" Line="11" Column="21" />
+      <File FileName="Assets/Roundbeargames_Tutorial/CharactersRB/ManualInput.cs" Line="28" Column="14" />
+      <File FileName="Assets/Roundbeargames_Tutorial/CharactersRB/CharacterControl.cs" Line="20" Column="21" />
+      <File FileName="Assets/Roundbeargames_Tutorial/CharactersRB/States/StateScripts/Landing.cs" Line="1" Column="1" />
+      <File FileName="Assets/Roundbeargames_Tutorial/CharactersRB/States/StateScripts/ForceTransition.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="New Unity Project" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Roundbeargames_Tutorial" expanded="True">
+                <Node name="CharactersRB" expanded="True">
+                  <Node name="States" expanded="True">
+                    <Node name="BaseScripts" expanded="True" />
+                    <Node name="StateScripts" expanded="True">
+                      <Node name="MoveForward.cs" selected="True" />
+                    </Node>
+                  </Node>
+                </Node>
+                <Node name="InputDevices" expanded="True" />
+                <Node name="Managers" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="5f60f461-422c-43bc-a02f-ff9212acd36e" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

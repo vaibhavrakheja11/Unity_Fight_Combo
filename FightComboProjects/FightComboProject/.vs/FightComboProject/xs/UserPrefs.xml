@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{811ED711-53B8-0A6C-0242-93C786DC89CA}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/States/BaseScripts/CharacterStateBase.cs">
+    <Files>
+      <File FileName="Assets/States/BaseScripts/CharacterStateBase.cs" Line="19" Column="14" />
+      <File FileName="Assets/States/StateScripts/ForcedTrasition.cs" />
+      <File FileName="Assets/States/StateScripts/MoveForward.cs" />
+      <File FileName="Assets/States/BaseScripts/StateData.cs" />
+      <File FileName="Assets/Scripts/KeyboardInput.cs" />
+      <File FileName="Assets/Scripts/ManualInput.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FightComboProject" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True" />
+              <Node name="States" expanded="True">
+                <Node name="BaseScripts" expanded="True">
+                  <Node name="CharacterStateBase.cs" selected="True" />
+                </Node>
+                <Node name="StateScripts" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="5f60f461-422c-43bc-a02f-ff9212acd36e" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
